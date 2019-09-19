@@ -1,5 +1,3 @@
-//https://note.mu/yuickomori/n/nef14af857354
-
 function main() {
   
   //当日入金予定の取引一覧を取得する
